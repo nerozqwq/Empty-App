@@ -1,0 +1,27 @@
+# 编译产物与中间文件
+dist/
+build/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.o
+*.spec
+
+# 历史遗留的打包方案（不进入仓库）
+_backup/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 临时/测试文件
+screenshot.bmp
+*.log
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
